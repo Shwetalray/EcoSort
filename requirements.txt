@@ -1,0 +1,9 @@
+torch
+torchvision
+opencv-python
+Pillow
+scikit-learn
+albumentations
+tqdm
+numpy
+mediapipe

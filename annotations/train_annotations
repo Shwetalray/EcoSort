@@ -1,0 +1,20 @@
+{
+    "images": [
+        {
+            "file_name": "paper/paper_image1.jpg",
+            "category_id": 0
+        },
+        {
+            "file_name": "paper/paper_image2.jpg",
+            "category_id": 0
+        },
+        {
+            "file_name": "plastic/plastic_image1.jpg",
+            "category_id": 1
+        },
+        {
+            "file_name": "plastic/plastic_image2.jpg",
+            "category_id": 1
+        }
+    ]
+}

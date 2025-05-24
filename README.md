@@ -17,6 +17,6 @@ EcoSort is an AI-driven smart waste segregation system that classifies waste int
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/EcoSort.git
+git clone https://github.com/Shwetalray/EcoSort.git
 cd EcoSort
 pip install -r requirements.txt
